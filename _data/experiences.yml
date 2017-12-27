@@ -2,14 +2,10 @@
   role: Senior Site Reliability Engineer
   time: 2013 - Present
   company: Red Hat, Czech Republic
-  details: "I'm founding member of the European SRE team for the openshift.com and hosted clusters. My daily duties includes
-  keeping the clusters up and running, planning and executing release of new versions and various maintances. The infrasturctures accounts
-  for 1000+ AWS EC2 nodes as well as GCE with more than 3 million application containers which generates one billion requests daily on average. 
-  The average infrastructure growth has been around 100% yearly.
-  Given we are mostly a public cloud implementation, security is a major part of my job.
+  details: "I'm a founding member of the European SRE team for the openshift.com and customer hosted OpenShift clusters. My daily duties includes keeping the clusters up and running, planning and executing releases of new versions and various maintenance. The infrastructure accounts for 1000+ AWS EC2 and GCE instances with more than 3 million application containers which generates one billion requests daily on average.  The average infrastructure growth has been around 100% yearly.
+Given we are mostly a public cloud implementation, security is a major part of my job.
   <br><br>
-  Notable major project includes expension of the OpenShift Online service to Europe. Technologies used
-  daily includes docker, puppet, ansible, zabbix, kubernetes."
+  Technologies used daily includes RHEL, docker, puppet, ansible, zabbix, kubernetes and prometheus."
 - experience:
   role: Senior System Administrator
   time: 2007 - 2013
@@ -17,9 +13,8 @@
   details: "Before moving to the OpenShift team, I have been a member of the Red Hat IT
   Production Operations. My team has been responsible for all critical Red Hat infrastructure,
   including our internal services such as mail infrastructure and also external customer-facing
-  services such as Red Hat Network, redhat.com but also a major part of the Fedora infrastructure
-  as well. Most of the infrastucture has been bare-metal with old-school data center approach.
-  <br><br>
-  Notable major projects includes migration from postfix to Zimbra, large NAS expansions,
-  DR project across geo-locations. Technologies used daily at that time includes kerberos, nginx,
+  services such as Red Hat Network, redhat.com but also a major part of the Fedora infrastructure. Most of the infrastructure has been bare-metal with old-school data center approach.
+<br><br>
+  Notable major projects includes organization-wide migration from postfix to Zimbra, NAS expansions,
+  DR project across geo-locations. Technologies used daily at that time included RHEL, kerberos, nginx,
   apache, postfix, Zimbra, puppet, PXE, etc."
