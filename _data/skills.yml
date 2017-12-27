@@ -1,15 +1,15 @@
 - skill:
   name: Linux
-  level: 98%
+  level: 90%
 - skill:
   name: Cloud computing
-  level: 98%
+  level: 85%
 - skill: 
   name: Amazon Web Services
   level: 80%
 - skill:
-  name: Ansible
+  name: Ansible and Puppet
   level: 80%
 - skill:
-  name: Haskell
-  level: 30%
+  name: Programming
+  level: 40%
