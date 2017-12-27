@@ -14,7 +14,12 @@
   role: Senior System Administrator
   time: 2007 - 2013
   company: Red Hat, Czech Republic
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  details: "Before moving to the OpenShift team, I have been a member of the Red Hat IT
+  Production Operations. My team has been responsible for all critical Red Hat infrastructure,
+  including our internal services such as mail infrastructure and also external customer-facing
+  services such as Red Hat Network, redhat.com but also a major part of the Fedora infrastructure
+  as well. Most of the infrastucture has been bare-metal with old-school data center approach.
+  <br><br>
+  Notable major projects includes migration from postfix to Zimbra, large NAS expansions,
+  DR project across geo-locations. Technologies used daily at that time includes kerberos, nginx,
+  apache, postfix, Zimbra, puppet, PXE, etc."
