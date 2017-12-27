@@ -7,11 +7,10 @@
 #  link: "#hook"
 #  tagline: "A responsive website template designed to help startups promote, market and sell their products."
 - into:
-  description: "Hilight of few high-level project I have lead my career."
+  description: "Highlight of few high-level project I have lead in my career."
 - project:
   title: "Red Hat and Fedora Project mirrors"
-  tagline: "Architecture and implemention of a high-availbility mirror cluster for one of the most used mirror site on the interwebs."
+  tagline: "Architecture and implementation of a high-availability mirror cluster for one of the most used mirror site on the interwebs."
 - project:
   title: "Bare metal to virtualization project"
-  tagline: "In old bare-metal days, I have migrated the half of the Red Hat's web and mail infrasturcture to oVirt, still in beta stages. It went live for the Red Hat Summit event and did not explode."
-
+  tagline: "In old bare-metal days, I have migrated the half of the Red Hat's web and mail infrasturcture to oVirt for HA, still in beta stages. It went live for the Red Hat Summit event and did not explode."
