@@ -2,14 +2,14 @@
   role: Senior Site Reliability Engineer
   time: 2013 - Present
   company: Red Hat, Czech Republic
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  details: "I'm founding member of the European SRE team for the openshift.com and hosted clusters. My daily duties includes
+  keeping the clusters up and running, planning and executing release of new versions and various maintances. The infrasturctures accounts
+  for 1000+ AWS EC2 nodes as well as GCE with more than 3 million application containers which generates one billion requests daily on average. 
+  The average infrastructure growth has been around 100% yearly.
+  Given we are mostly a public cloud implementation, security is a major part of my job.
+  <br><br>
+  Notable major project includes expension of the OpenShift Online service to Europe. Technologies used
+  daily includes docker, puppet, ansible, zabbix, kubernetes."
 - experience:
   role: Senior System Administrator
   time: 2007 - 2013
