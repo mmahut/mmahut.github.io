@@ -23,7 +23,7 @@ github_username:  mmahut
 
 # Build settings
 markdown: kramdown
-theme: Cayman
+theme: Texture
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
